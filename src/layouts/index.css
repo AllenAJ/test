@@ -18,9 +18,9 @@ body {
   z-index: -10;
   width: 100%;
   height: 250px;
-  background: #072540; /* fallback for old browsers */
-  background: #072540;
-  background: #072540;
+  background: #ffffff; /* fallback for old browsers */
+  background: #ffffff;
+  background: #ffffff;
 }
 
 .container {
