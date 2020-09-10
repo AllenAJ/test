@@ -1,8 +1,8 @@
 {
-  "name": "GitStart",
+  "name": "Test",
   "description": "GitStart",
   "version": "1.0.0",
-  "author": "Rishabh Bansal <rishabhbansal1855@gmail.com>",
+  "author": "Allen Joseph <sdfsdf@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.277",
     "gatsby-link": "^1.6.46",
