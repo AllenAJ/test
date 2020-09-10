@@ -11,7 +11,7 @@ const Header = ({ siteTitle }) => (
         <div className="github-logo">
           <a
             className="github-button"
-            href="https://github.com/rishabh-bansal"
+            href="https://github.com/Zubi-io"
             data-size="large"
             aria-label="Follow @Zubi-io on GitHub"
           >
