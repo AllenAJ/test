@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'GITSTART',
-    author: 'rishabh-bansal',
-    profile: 'https://github.com/rishabh-bansal',
-    siteUrl: `https://gitstart.tech`
+    title: 'TEST',
+    author: 'allen-joseph',
+    profile: 'https://github.com/zubi-io',
+    siteUrl: `https://tedst.tech`
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -20,13 +20,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-101997744-4",
-        // Puts tracking script in the head instead of the body
-        head: true,
-        // Setting this parameter is optional
-        anonymize: true,
-        // Setting this parameter is also optional
-        respectDNT: true,
+        trackingId: "",
         // Avoids sending pageview hits from custom paths
         exclude: ["/preview/**", "/do-not-track/me/too/"],
       },
