@@ -10,7 +10,7 @@ body {
   min-height: 100%;
   padding-bottom: 6rem;
   font-family: "Varela Round", sans-serif;
-  color: #072540;
+  color: #ffffff;
 }
 
 .background-hero {
@@ -18,9 +18,9 @@ body {
   z-index: -10;
   width: 100%;
   height: 250px;
-  background: #ffffff; /* fallback for old browsers */
-  background: #ffffff;
-  background: #ffffff;
+  background: #1e5271; /* fallback for old browsers */
+  background: #1e5271;
+  background: #1e5271;
 }
 
 .container {
@@ -34,7 +34,7 @@ body {
 }
 
 a {
-  color: #0366d6;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -107,7 +107,7 @@ a {
   display: inline-block;
   transition: 0.3s;
   text-decoration: none;
-  color: #616063;
+  color: #00c3ff;
   padding: 17px;
   border-bottom: 2px solid transparent;
 }
@@ -117,16 +117,16 @@ a {
 }
 
 .tabs li a.active {
-  color: #000000;
+  color: #00c3ff;
   border-bottom: 2px solid #0366d6;
 }
 
 .code {
-  background: rgb(238, 232, 238);
+  background: rgb(0, 0, 0);
   border-radius: 3px;
   padding: 15px 20px 15px 20px;
   overflow: auto;
-  color: #373738;
+  color: #0782cc;
   font-family: "Roboto Mono", monospace;
 }
 
