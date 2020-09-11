@@ -32,7 +32,6 @@ body {
 .content {
   padding: 10px 20px 10px 20px;
 }
-
 a {
   color: #000000;
   text-decoration: none;
@@ -41,6 +40,14 @@ a {
 .nav {
   display: block;
   overflow: auto;
+}
+
+.zlogo{
+  justifyContent:center;
+  alignItems:center;
+  height: 200px;
+  width: 200px;
+  
 }
 
 .nav .brand-text {
