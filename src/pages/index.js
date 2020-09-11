@@ -69,7 +69,7 @@ const IndexPage = () => (
     </p>
     <h3>Step 7</h3>
     <p>
-      Now, open your web browser and goto the <a target="_blank" href="https://github.com/rishabh-bansal/GitStart"> original repository on GitHub</a>. If your changes has been pushed to your forked copy, You'll be able to see an option saying "New Pull Request" in the original repository.
+      Now, open your web browser and goto the <a target="_blank" href="https://github.com/zubi-io"> original repository on GitHub</a>. If your changes has been pushed to your forked copy, You'll be able to see an option saying "New Pull Request" in the original repository.
       Click on the option, one next page choose the master branch of the main repo against your created-branch name ( choose your branch name we created and not master). the click on create pull request. Once you fill in the commit message and comment click on submit pull request. <br/>
       and you are all done! <i className="em em-confetti_ball"></i> Wait for a reviewer to review your file and merge it to the master. Once its been successfully merged, your profile will be visible in the submissions tab. <i className="em em-trophy"></i>
     </p>
