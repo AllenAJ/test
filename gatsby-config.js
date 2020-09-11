@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'TEST',
+    title: 'Open Source Fiesta',
     author: 'allen-joseph',
     profile: 'https://github.com/zubi-io',
     siteUrl: `https://tedst.tech`
