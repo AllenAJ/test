@@ -43,10 +43,10 @@ a {
 }
 
 .zlogo{
-  justifyContent:center;
-  alignItems:center;
+  justify-Content:center;
+  align-items: center;
   height: 200px;
-  width: 200px;
+  width: 400px;
   
 }
 
