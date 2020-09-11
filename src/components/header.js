@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "gatsby-link";
-import github_logo from "../images/github.svg";
+import github_logo from "../images/logo-white.png";
 
 const Header = ({ siteTitle }) => (
   <div>
