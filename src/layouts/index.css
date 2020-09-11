@@ -43,8 +43,8 @@ a {
 }
 
 .zlogo{
-  justify-Content:center;
-  align-items: center;
+    margin: 10px auto 20px;
+    display: block;
   height: 200px;
   width: 400px;
   
