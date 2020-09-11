@@ -6,7 +6,7 @@ import zubi_logo from "../images/OS.png";
 
 const IndexPage = () => (
   <div>
-     <img alt="zubi-logo" src={zubi_logo} />
+     <img alt="zubi-logo" className="zlogo" src={zubi_logo} />
     <h1>Hello Developers! &nbsp;<i className="em em-wave"></i></h1>
     <h3>Let's help you submit your first Pull Request.</h3>
     <p>Once your pull request is being merged, your profile will be visible in the <Link to="/submissions/">Submissions </Link>
