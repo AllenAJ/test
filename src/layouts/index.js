@@ -35,7 +35,6 @@ const Layout = ({ children, data }) => (
               <ul className="tabs">
                   <li><Link to="/" exact={true} activeClassName="active">Instructions</Link></li>
                   <li><Link to="/submissions/" exact={true} activeClassName="active">Submissions</Link></li>
-                  <li><Link to="/cheatsheet/" exact={true} activeClassName="active">CheatSheet</Link></li>
               </ul>
           </div>
           <div className="content">
